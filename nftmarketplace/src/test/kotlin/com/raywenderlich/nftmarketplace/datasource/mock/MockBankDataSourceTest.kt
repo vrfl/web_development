@@ -1,4 +1,4 @@
-package com.raywenderlich.nftmarketplace.datasourse.mock
+package com.raywenderlich.nftmarketplace.datasource.mock
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
